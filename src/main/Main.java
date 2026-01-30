@@ -10,6 +10,10 @@ public class Main {
         System.out.println("Iniciando");
         System.out.println("en crer");
         System.out.println("repositorio");
+        System.out.println("utilizando");
+        System.out.println("gitbash y");
+        System.out.println("Java para el");
+        System.out.println("repositorio");
     }
     
 }
